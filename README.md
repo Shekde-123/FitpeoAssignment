@@ -1,5 +1,5 @@
 # FitpeoAssignment
-The objective of this assignment is to assess your ability to automate the navigation and interaction with web elements.
+The objective of this assignment is to assess ability to automate the navigation and interaction with web elements.
 
 List the tools, language and framework details are following:-
 Programming Language - Java
